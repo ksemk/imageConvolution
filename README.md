@@ -20,7 +20,7 @@ This project demonstrates a custom image filtering application in C. The code lo
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ksemk/imageConvolution
-   cd your-repo-name
+   cd imageConvolution
    ```
 
 2. **Build the Project**:
