@@ -1,7 +1,3 @@
-Here’s a `README.md` template for showcasing this project on GitHub:
-
----
-
 # Image Filter with Performance Measurement
 
 This project demonstrates a custom image filtering application in C. The code loads a grayscale PNG image, applies a convolutional filter, measures the filtering performance, and outputs the filtered image. Key metrics such as memory bandwidth and pixel rendering speed are displayed in real-time. The project leverages cycle counting, low-level memory manipulation, and the `libpng` library for image handling.
