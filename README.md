@@ -77,10 +77,16 @@ This project uses the following files:
 - `timestamp64.s`: Assembly code to count CPU cycles
 - `LICENSE`: License file for open-source usage
 
+## Contacts
+
+For any inquiries, support requests, or if you're interested in collaborating, please don't hesitate to reach out:
+
+- **Email**: [kyrylo.semenchenko@gmail.com](mailto:kyrylo.semenchenko@gmail.com)
+- **GitHub**: [Visit my GitHub profile](https://github.com/ksemk)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/kyrylo-semenchenko/)
+
+I look forward to hearing from you!
+
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-Developed by @ksemk. Feel free to reach out with questions or suggestions!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
